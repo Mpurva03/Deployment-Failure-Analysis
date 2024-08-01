@@ -1,4 +1,4 @@
-# Deployment Failure Analysis
+# DEPLOYMENT FAILURE ANALYSIS
 
 ## **Overview**
 Deployment failure analysis involves diagnosing and resolving issues that prevent successful deployment by examining logs, configurations, and environments. Visualization aids this process by using charts, flow diagrams, and heat maps to represent errors, dependencies, and trends, making it easier to identify root causes and improve future deployments.
@@ -6,7 +6,6 @@ Deployment failure analysis involves diagnosing and resolving issues that preven
 ## **Technology**
 + Python
 + Power BI for Visualization
-+ MySql
 + MsExcel
 
 ## **Features**
